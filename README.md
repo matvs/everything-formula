@@ -8,3 +8,8 @@
 
 It does not actually use Tupper's formula per se. 
 First I have decoded it on paper and then I implemented decoding and encoding algorithms instead of calculating inequality, because reading binary data is quicker, than this direct and clever calculations. 
+
+
+[Try it out](https://matvs.github.io/everything-formula/)
+
+Does not work on Safari due to lack of Js native BigInt support
