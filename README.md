@@ -12,4 +12,4 @@ First I have decoded it on paper and then I implemented decoding and encoding al
 
 [Try it out](https://matvs.github.io/everything-formula/)
 
-Does not work on Safari due to lack of Js native BigInt support
+Does not work on Safari due to lack of native BigInt support.
