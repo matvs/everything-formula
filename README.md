@@ -7,7 +7,7 @@
 - [Numberphile](https://www.youtube.com/watch?v=_s5RFgd59ao)
 
 It does not actually use Tupper's formula per se. 
-First I have decoded it on paper and then I implemented decoding and encoding algorithms instead of calculating inequality, because reading binary data is quicker, than this direct and clever calculations. 
+First I have decoded it on paper and then I implemented decoding and encoding algorithms instead of calculating inequality, because reading binary data is quicker, than these direct and clever calculations. 
 
 
 [Try it out](https://matvs.github.io/everything-formula/)
